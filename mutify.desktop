@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version= 1.0
+Icon= /home/netvincible/Documents/Python/Mutify/logo.png
+Name=Mutify
+Exec=python3 /home/netvincible/Documents/Python/Mutify/main.py
+Terminal=false
+Type=Application
